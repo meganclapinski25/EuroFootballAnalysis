@@ -12,7 +12,7 @@ I embarked on this data analysis journey to bridge my love for soccer with the s
 - Python
 - Pandas
 - NumPy
-- Jupyter Notebook
+- Google Colab Notebook
 
 ## How to Use
 1. Download the dataset file: [top5_league_player.csv](link_to_raw_data).
