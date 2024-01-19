@@ -1,7 +1,6 @@
 # Soccer Player Data Analysis
 
-## Download Dataset
-Before running the notebook, download the dataset file: [top5_league_player.csv].
+
 
 ## Overview
 This project is a data analysis of soccer players in the top 5 European leagues. As a soccer enthusiast, I combined my passion for the sport with my interest in data analysis. The dataset includes information on players from leagues such as the English Premier League, La Liga, Serie A, Bundesliga, and Ligue 1.
